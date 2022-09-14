@@ -23,6 +23,10 @@
 		"name" : "Forge town",
 		"description" : "New town made by Mod Design Team as part of The Heavenly Forge addon",
 		"version" : "2.0.0",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
 		"author" : "Mod Design Team",
 		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
 		"modType" : "Town",
