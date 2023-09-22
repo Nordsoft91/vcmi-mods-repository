@@ -718,8 +718,12 @@
 		"downloadSize" : 0.159
 	},
 	"kartenarchiv" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.4/kartenarchiv/mod.json",
+		"mod" : "https://raw.githubusercontent.com/Nordsoft91/boost-ai/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/kartenarchiv-mappack/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 43.43
+	},
+	"boost-ai" : {
+		"mod" : "https://raw.githubusercontent.com/Nordsoft91/boost-ai/vcmi-1.4/mod.json",
+		"download" : "hhttps://github.com/Nordsoft91/boost-ai/archive/refs/heads/vcmi-1.4.zip",
 	}
 }
